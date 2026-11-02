@@ -51,4 +51,3 @@ Never commit identifiable patient information, raw medical records, credentials 
 Use one short, stable project slug (for example, `gc-survival-2026`) across protocols, screening, dictionaries, scripts, and output records. Never use patient identifiers in paths, filenames, branches, commits, or issues.
 
 Keep commits focused, document analysis decisions, and never use Git history as sensitive-data storage. If sensitive information is committed accidentally, stop sharing the repository and follow the incident steps in [PRIVACY.md](PRIVACY.md).
-
